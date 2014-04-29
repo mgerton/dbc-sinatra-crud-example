@@ -1,4 +1,4 @@
-# Ryan's First Sinatra CRUD app
+# Matt's First Sinatra CRUD app
 
 This is an app that will allow you to store, edit and manage contacts.
 
